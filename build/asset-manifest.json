@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https//somirang,github.io/testtest/static/js/main.6a1521fc.chunk.js",
+    "main.js.map": "https//somirang,github.io/testtest/static/js/main.6a1521fc.chunk.js.map",
+    "runtime-main.js": "https//somirang,github.io/testtest/static/js/runtime-main.a14978fb.js",
+    "runtime-main.js.map": "https//somirang,github.io/testtest/static/js/runtime-main.a14978fb.js.map",
+    "static/js/2.235e61d4.chunk.js": "https//somirang,github.io/testtest/static/js/2.235e61d4.chunk.js",
+    "static/js/2.235e61d4.chunk.js.map": "https//somirang,github.io/testtest/static/js/2.235e61d4.chunk.js.map",
+    "index.html": "https//somirang,github.io/testtest/index.html",
+    "precache-manifest.25e893b66a4b91e1d47a2292db527144.js": "https//somirang,github.io/testtest/precache-manifest.25e893b66a4b91e1d47a2292db527144.js",
+    "service-worker.js": "https//somirang,github.io/testtest/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a14978fb.js",
+    "static/js/2.235e61d4.chunk.js",
+    "static/js/main.6a1521fc.chunk.js"
+  ]
+}
